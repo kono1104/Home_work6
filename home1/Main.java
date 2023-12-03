@@ -14,7 +14,7 @@ public class Main {
 
         // Add some data
         familyTree.addFamilyTree(new Human("Алекс", "муж", 27));
-        familyTree.addFamilyTree(new Human("Владимир Владимирович Путин", "муж", 70));
+        familyTree.addFamilyTree(new Human("Иван Иванович Иванов", "муж", 70));
         familyTree.getByName("алекс");
 
         // MVP
